@@ -1,0 +1,7 @@
+# Ignore local noise — this repo is docs + illustrative snippets only.
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+.env
+.env.*
